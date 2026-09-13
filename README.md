@@ -34,5 +34,5 @@ I'm a Full-Stack Developer based in Canada crafting web applications, mobile pla
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabricio-alejandro-ortiz-fiallos/)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 🌐 [Portfolio](https://www.ortizfiallos.dev/)
 - 📧 [Email](mailto:fabricio.ortiz.dev@gmail.com)
