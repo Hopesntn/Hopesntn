@@ -1,4 +1,4 @@
-## Hi
+## Hi, I'm Fabricio 
 
 I'm a Full-Stack Developer based in Canada crafting web applications, mobile platforms, and indie video games. I focus on building software with long-term utility—tools that people rely on and value over time.
 
