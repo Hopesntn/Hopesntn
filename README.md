@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi
 
-<!--
-**Hopesntn/Hopesntn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer based in Canada crafting web applications, mobile platforms, and indie video games. I focus on building software with long-term utility—tools that people rely on and value over time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+- **Purpose-Driven Building:** Designing digital products that combine clean UI with real human impact.
+- **Creative Projects:** Developing websites and small videogames.
+- **Philosophy:** Trying to be 1% better everyday.
+
+---
+
+### Tech Stack
+
+**Primary Stack:**  
+`React` • `Next.js` • `JavaScript` • `Tailwind CSS`
+
+**Languages & Databases:**  
+`Python` • `C` • `C++` • `SQL` • `MongoDB`
+
+**Tools:**
+`OpenCode` • `Warp` • `VsCode` • `Visual Studio` • `Visual Paradigm`
+---
+
+###  Beyond the Code
+- **Fitness:** Dedicated to working out and muscle gains.
+- **Gaming:** Using video games to reset and clear my head after focused coding sessions.
+- **Curiosity:** Endlessly spending hours diving down rabbit holes to master new concepts.
+- **Mindset:** Person-focused and optimistic, always looking for the best in people.
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/fabricio-alejandro-ortiz-fiallos/))
+- 🌐 [Portfolio](https://your-portfolio.com)
+- 📧 [Email](mailto:fabricio.ortiz.dev@gmail.com)
