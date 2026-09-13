@@ -19,8 +19,9 @@ I'm a Full-Stack Developer based in Canada crafting web applications, mobile pla
 **Languages & Databases:**  
 `Python` • `C` • `C++` • `SQL` • `MongoDB`
 
-**Tools:**
-`OpenCode` • `Warp` • `VsCode` • `Visual Studio` • `Visual Paradigm`
+**Tools:**  
+`VsCode` • `Visual Paradigm` • `Warp` • `Visual Studio` • `OpenCode`
+
 ---
 
 ###  Beyond the Code
