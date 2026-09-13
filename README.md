@@ -14,7 +14,7 @@ I'm a Full-Stack Developer based in Canada crafting web applications, mobile pla
 ### Tech Stack
 
 **Primary Stack:**  
-`React` • `Next.js` • `JavaScript` • `Tailwind CSS`
+`React` • `Next.js` • `JavaScript` • `Tailwind CSS ` • `Vite `
 
 **Languages & Databases:**  
 `Python` • `C` • `C++` • `SQL` • `MongoDB`
